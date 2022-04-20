@@ -23,9 +23,12 @@ social:
   - title: discord
     icon: discord
     url: https://discord.gg/fGUjnUuAVQ
-  - title: github
-    icon: github
-    url: https://github.com/inkeystech
   - title: knowledge base
     icon: book
     url: https://inkeys.wiki
+  - title: transparency report
+    icon: th-list
+    url: https://inkeys.wiki/transparency
+  - title: github
+    icon: github
+    url: https://github.com/inkeystech
